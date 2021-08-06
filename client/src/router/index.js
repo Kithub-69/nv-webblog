@@ -23,14 +23,27 @@ export default new Router({
       component: UserCreate
     },
     {
+<<<<<<< HEAD
       path: '/user/edit/:userId',
+=======
+      path: '/user/edit',
+>>>>>>> f06b1f46c3345e4723918d9c61b76999c1afdfd5
       name: 'user-edit',
       component: UserEdit
     },
     {
+<<<<<<< HEAD
       path: '/user/:userId',
       name: 'user',
       component: UserShow
     }
   ]
 })
+=======
+      path: '/user/show',
+      name: 'user-show',
+      component: UserShow
+    }
+  ]
+})
+>>>>>>> f06b1f46c3345e4723918d9c61b76999c1afdfd5

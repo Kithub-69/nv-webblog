@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <template>
     <div>
     <h1>show User</h1>
@@ -23,4 +24,17 @@ export default {
 };
 </script>
 <style scoped>
+=======
+<template>
+    <h1>Get User By Id</h1>
+</template>
+<script>
+export default {
+    
+}
+</script>
+<style scoped>
+
+
+>>>>>>> f06b1f46c3345e4723918d9c61b76999c1afdfd5
 </style>
